@@ -1,1 +1,1 @@
-<h1><Voici les reponses aux questions</h1>
+<h1>Voici les reponses aux questions</h1>
